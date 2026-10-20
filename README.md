@@ -41,7 +41,7 @@ The data are observational, so the results show associations, not causes. Import
 | [diabetes.tab.txt](diabetes.tab.txt) | Dataset used in the analysis |
 | [Diabetes_Report.pdf](Diabetes_Report.pdf) | Analytical report answering the six project questions |
 | [Diabetes_Presentation.pdf](Diabetes_Presentation.pdf) | Short presentation for a non-specialist decision-maker |
-| [figures/](figures/) | Figures used in the report |
+| [Figures](Figures) | Figures used in the report |
 
 To run the analysis, place the R script and the dataset in the same folder, open the script in RStudio, set the working directory to the source file location, and run the script from top to bottom.
 
